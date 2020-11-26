@@ -1,0 +1,2 @@
+# wealth
+Wealth distribution simulation
